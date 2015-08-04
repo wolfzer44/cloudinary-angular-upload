@@ -1,0 +1,15 @@
+{
+  "name": "cloudinary",
+  "version": "0.0.0",
+  "authors": [
+    "mattoliveirabsb@gmail.com <matthew.oliveira95@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
